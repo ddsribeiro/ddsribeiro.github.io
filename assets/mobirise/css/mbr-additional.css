@@ -1959,30 +1959,3 @@ body {
 .cid-rgXj1kaIQj .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-rgZFVstTKf {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rgZFVstTKf .title {
-  margin-bottom: 2rem;
-}
-.cid-rgZFVstTKf .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rgZFVstTKf a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rgZFVstTKf a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rgZFVstTKf .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-rgZFVstTKf .input-group-btn {
-  display: block;
-  text-align: center;
-}
