@@ -1,2 +1,2 @@
-# ddsribeiro.github.io
+http://ddsribeiro.github.io
 GitHub Pages
